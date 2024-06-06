@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.00d7241a.chunk.css",
-    "main.js": "/static/js/main.666cc7cf.chunk.js",
-    "main.js.map": "/static/js/main.666cc7cf.chunk.js.map",
+    "main.js": "/static/js/main.a3838308.chunk.js",
+    "main.js.map": "/static/js/main.a3838308.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.952e8834.js",
     "runtime-main.js.map": "/static/js/runtime-main.952e8834.js.map",
     "static/css/2.7b8a7a4e.chunk.css": "/static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.89844d64.chunk.js": "/static/js/2.89844d64.chunk.js",
-    "static/js/2.89844d64.chunk.js.map": "/static/js/2.89844d64.chunk.js.map",
+    "static/js/2.7c51f2a1.chunk.js": "/static/js/2.7c51f2a1.chunk.js",
+    "static/js/2.7c51f2a1.chunk.js.map": "/static/js/2.7c51f2a1.chunk.js.map",
     "static/js/3.75a5d11e.chunk.js": "/static/js/3.75a5d11e.chunk.js",
     "static/js/3.75a5d11e.chunk.js.map": "/static/js/3.75a5d11e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7b8a7a4e.chunk.css.map": "/static/css/2.7b8a7a4e.chunk.css.map",
     "static/css/main.00d7241a.chunk.css.map": "/static/css/main.00d7241a.chunk.css.map",
-    "static/js/2.89844d64.chunk.js.LICENSE.txt": "/static/js/2.89844d64.chunk.js.LICENSE.txt",
+    "static/js/2.7c51f2a1.chunk.js.LICENSE.txt": "/static/js/2.7c51f2a1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
+    "static/media/PIOTR TAJANOWICZ  FULL-STACK DEVELOPER.44f493d7.pdf": "/static/media/PIOTR TAJANOWICZ  FULL-STACK DEVELOPER.44f493d7.pdf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
     "static/media/after-effects.16f048ca.svg": "/static/media/after-effects.16f048ca.svg",
@@ -119,7 +120,6 @@
     "static/media/picsart.e849dc91.svg": "/static/media/picsart.e849dc91.svg",
     "static/media/pinkTheme-boy.dee5f707.svg": "/static/media/pinkTheme-boy.dee5f707.svg",
     "static/media/pinkTheme-girl.154b10ae.svg": "/static/media/pinkTheme-girl.154b10ae.svg",
-    "static/media/piotr_tajanowicz_resume.720bab43.pdf": "/static/media/piotr_tajanowicz_resume.720bab43.pdf",
     "static/media/placeholder.3fcbbdcd.png": "/static/media/placeholder.3fcbbdcd.png",
     "static/media/postgresql.f0f3d0b9.svg": "/static/media/postgresql.f0f3d0b9.svg",
     "static/media/premierepro.9211e4a7.svg": "/static/media/premierepro.9211e4a7.svg",
@@ -157,8 +157,8 @@
   "entrypoints": [
     "static/js/runtime-main.952e8834.js",
     "static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.89844d64.chunk.js",
+    "static/js/2.7c51f2a1.chunk.js",
     "static/css/main.00d7241a.chunk.css",
-    "static/js/main.666cc7cf.chunk.js"
+    "static/js/main.a3838308.chunk.js"
   ]
 }
