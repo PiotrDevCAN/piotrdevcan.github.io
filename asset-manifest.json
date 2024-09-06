@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.00d7241a.chunk.css",
-    "main.js": "/static/js/main.1be27792.chunk.js",
-    "main.js.map": "/static/js/main.1be27792.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.952e8834.js",
-    "runtime-main.js.map": "/static/js/runtime-main.952e8834.js.map",
+    "main.css": "/static/css/main.528a4553.chunk.css",
+    "main.js": "/static/js/main.425b7f52.chunk.js",
+    "main.js.map": "/static/js/main.425b7f52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2bca893.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2bca893.js.map",
     "static/css/2.7b8a7a4e.chunk.css": "/static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.7c51f2a1.chunk.js": "/static/js/2.7c51f2a1.chunk.js",
-    "static/js/2.7c51f2a1.chunk.js.map": "/static/js/2.7c51f2a1.chunk.js.map",
-    "static/js/3.75a5d11e.chunk.js": "/static/js/3.75a5d11e.chunk.js",
-    "static/js/3.75a5d11e.chunk.js.map": "/static/js/3.75a5d11e.chunk.js.map",
+    "static/js/2.43b2198d.chunk.js": "/static/js/2.43b2198d.chunk.js",
+    "static/js/2.43b2198d.chunk.js.map": "/static/js/2.43b2198d.chunk.js.map",
+    "static/js/3.baefaa48.chunk.js": "/static/js/3.baefaa48.chunk.js",
+    "static/js/3.baefaa48.chunk.js.map": "/static/js/3.baefaa48.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7b8a7a4e.chunk.css.map": "/static/css/2.7b8a7a4e.chunk.css.map",
-    "static/css/main.00d7241a.chunk.css.map": "/static/css/main.00d7241a.chunk.css.map",
-    "static/js/2.7c51f2a1.chunk.js.LICENSE.txt": "/static/js/2.7c51f2a1.chunk.js.LICENSE.txt",
+    "static/css/main.528a4553.chunk.css.map": "/static/css/main.528a4553.chunk.css.map",
+    "static/js/2.43b2198d.chunk.js.LICENSE.txt": "/static/js/2.43b2198d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Resume Piotr Tajanowicz Full-Stack Developer.d5af3b5e.pdf": "/static/media/Resume Piotr Tajanowicz Full-Stack Developer.d5af3b5e.pdf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
@@ -155,10 +155,10 @@
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/static/media/yellowTheme-girl.a7ec3ad5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.952e8834.js",
+    "static/js/runtime-main.f2bca893.js",
     "static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.7c51f2a1.chunk.js",
-    "static/css/main.00d7241a.chunk.css",
-    "static/js/main.1be27792.chunk.js"
+    "static/js/2.43b2198d.chunk.js",
+    "static/css/main.528a4553.chunk.css",
+    "static/js/main.425b7f52.chunk.js"
   ]
 }
